@@ -1,0 +1,19 @@
+Testing list elements
+
+Project Title = {2}
+Project URL = {0}
+
+Project Image Title = {10}
+Title Image URL = {1}
+
+Project Tag = {4}
+Project Short Description = {3}
+
+Author Name = {7}
+Author URL = {6}
+
+Author Location = {9}
+Author Motto = {8}
+
+Author Image Title = {11}
+Author Image URL = {5}
